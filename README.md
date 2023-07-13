@@ -1,11 +1,11 @@
-About jsonmerge
-===============
+About jsonmerge-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jsonmerge-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/jsonmerge/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jsonmerge-feedstock/blob/main/LICENSE.txt)
 
 Summary: Merge a series of JSON documents.
 
